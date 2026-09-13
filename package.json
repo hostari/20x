@@ -43,7 +43,7 @@
     "cloudflared": "^0.7.1",
     "cron-parser": "^5.5.0",
     "electron-updater": "^6.8.3",
-    "js-yaml": "^4.1.1",
+    "js-yaml": "^4.3.2",
     "node-pty": "^1.1.0",
     "qrcode": "^1.5.4",
     "undici": "^7.21.0",
